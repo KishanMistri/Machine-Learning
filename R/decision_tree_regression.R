@@ -1,7 +1,7 @@
 # Decision Tree Regression
 
 # Importing the dataset
-dataset = read.csv('Position_Salaries.csv')
+dataset = read.csv('position_salaries.csv')
 dataset = dataset[2:3]
 
 # Splitting the dataset into the Training set and Test set
